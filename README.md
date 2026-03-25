@@ -64,6 +64,8 @@ The system consists of two main components:
 * STM32 (STM32F4 series)
 * Embedded C
 * STM32CubeIDE
+* STM32Cube Programmer
+* STM32Cube MX
 * HAL Drivers
 * UART Communication
 
@@ -94,12 +96,12 @@ Drivers/
 Core/
 Docs/
 ```
-
+```
 Application/
 Drivers/
 Core/
 Docs/
-
+```
 ---
 
 ## 🧪 Future Improvements
